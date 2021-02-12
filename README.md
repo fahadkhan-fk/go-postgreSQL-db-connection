@@ -1,4 +1,4 @@
-# PostgreSQL-DB-connection with GO
+# PostgreSQL-DB-connection with GO using Gorm
 * In this project you will get to know how to connect your postgres database with your GO project.
 * Before moving ahead please make sure you have installed postgres in your system.
 * Reference link for postgres installation -> `https://youtu.be/QGLIZRG_aMI` or follow this `https://www.codingcommanders.com/postgresql/install.php` 
